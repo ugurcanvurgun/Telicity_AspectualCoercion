@@ -77,7 +77,7 @@ Template("test.csv" ,
         .center()
         .print()
 ,
-    newTimer("wait", 6500)
+    newTimer("wait", 6000)
         .start()
         .wait()
 ,

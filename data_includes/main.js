@@ -186,7 +186,7 @@ Template("test.csv" ,
 
 newTrial( "bye" ,
     newText("<p style=font-size:18px;>Your results have been saved, but you need to validate your participation below. This is a necessary step to approve your submission!</p>" +
-			"<p style=font-size:18px;><a href='https://app.prolific.co/submissions/complete?cc=68CAA119'>Click here to confirm my submission on Prolific</a>.</p>")
+			"<p style=font-size:18px;><a href='https://app.prolific.co/submissions/complete?cc=C1N2Q65M'>Click here to confirm my submission on Prolific</a>.</p>")
 		.center()
         .print()
 		.wait()

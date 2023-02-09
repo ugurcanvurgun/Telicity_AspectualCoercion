@@ -181,8 +181,7 @@ Template("test.csv" ,
     .log("CorrectResp1", row.CorrectResp1)
     .log("CorrectResp2", row.CorrectResp2)
     .log("Context", row.Context)
-    .log("Telicity", row.Telicity)
-    .log("Experiment", row.Experiment))
+    .log("Experiment", row.Experiment)) 
 
 
 newTrial( "bye" ,
